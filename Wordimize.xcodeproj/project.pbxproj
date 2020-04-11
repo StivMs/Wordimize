@@ -13,6 +13,7 @@
 		C093C82D243673930008E252 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C093C82B243673930008E252 /* Main.storyboard */; };
 		C093C82F243673950008E252 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C093C82E243673950008E252 /* Assets.xcassets */; };
 		C093C832243673950008E252 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C093C830243673950008E252 /* LaunchScreen.storyboard */; };
+		C093C83C2436829B0008E252 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = C093C83B2436829B0008E252 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C093C82E243673950008E252 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C093C831243673950008E252 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C093C833243673950008E252 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C093C83B2436829B0008E252 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = ../../../project5_remake/project5_remake/start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C093C82E243673950008E252 /* Assets.xcassets */,
 				C093C830243673950008E252 /* LaunchScreen.storyboard */,
 				C093C833243673950008E252 /* Info.plist */,
+				C093C83B2436829B0008E252 /* start.txt */,
 			);
 			path = Wordimize;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C093C832243673950008E252 /* LaunchScreen.storyboard in Resources */,
+				C093C83C2436829B0008E252 /* start.txt in Resources */,
 				C093C82F243673950008E252 /* Assets.xcassets in Resources */,
 				C093C82D243673930008E252 /* Main.storyboard in Resources */,
 			);
